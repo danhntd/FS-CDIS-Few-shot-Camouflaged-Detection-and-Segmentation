@@ -6,6 +6,9 @@ This repository is the official implementation of the paper entitled: **The Art 
 
 [[Paper]](https://ieeexplore.ieee.org/document/10608133) [[ArXiv]](https://arxiv.org/abs/2304.07444) [[Code]](https://github.com/danhntd/FS-CDIS) [[Project Page]](https://danhntd.github.io/projects.html#CAMO-FS)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-camouflaged-animal-detection-and/few-shot-instance-segmentation-on-camo-fs)](https://paperswithcode.com/sota/few-shot-instance-segmentation-on-camo-fs?p=few-shot-camouflaged-animal-detection-and)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/few-shot-camouflaged-animal-detection-and/few-shot-object-detection-on-camo-fs)](https://paperswithcode.com/sota/few-shot-object-detection-on-camo-fs?p=few-shot-camouflaged-animal-detection-and)
+
 ---
 ## Updates
 [2024/7] We have released the checkpoints, visualization, and initial instructions for FS-CDIS⚡!
